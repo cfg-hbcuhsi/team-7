@@ -32,7 +32,7 @@ export default function IndexPage() {
         */}
       <Container>
         <div>
-          <img src={obj.Picture == null ? "" : obj.Picture} alt="CollegeImage" id="college-image" />
+          <img src={obj.Picture == null ? "" : obj.Picture} alt="CollegeImage" id="college-image" className="mx-auto d-block" />
         </div>
 
         <h1 id="college-name"> {obj.Name == null ? "" : obj.Name} </h1>
@@ -44,7 +44,7 @@ export default function IndexPage() {
         <hr />
 
         <h4 class="small-headers"> About </h4>
-        <p>
+        <p className="text-center">
           {obj.About == null ? ""  : obj.About}
         </p>
 
