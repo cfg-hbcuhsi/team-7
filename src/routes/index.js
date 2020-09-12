@@ -60,7 +60,7 @@ export default function IndexPage() {
         </Row>
         <Row>
           <h2 className="mx-auto mt-3" style={{ fontFamily: "Arial" }}>
-            CONNECT WITH THEM
+            CONNECT WITH US
           </h2>
         </Row>
         <Row
