@@ -3,6 +3,7 @@ import NavBar from "../components/NavBar";
 import Carousel from "../components/Carousel";
 import BoxDesc from "../components/BoxDesc";
 import { Row, Container, Col, Card } from "react-bootstrap";
+
 export default function IndexPage() {
   return (
     <>
@@ -11,6 +12,8 @@ export default function IndexPage() {
         <Row>
           <Carousel />
           <BoxDesc />
+        </Row>
+        <Row>
         </Row>
       </Container>
     </>
