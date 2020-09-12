@@ -1,0 +1,35 @@
+#college-image {
+    width: 100%;
+    max-height: 20rem;
+    height: 100%;
+}
+
+#college-name {
+    margin-top: 5rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+#college-location {
+    text-align: center;
+}
+
+#college-link {
+    display: block;
+    text-align: center;
+}
+
+#college-cost {
+    text-align: center;
+    font-size: 24px;
+}
+
+.college-scholarships {
+    display: block;
+    text-align: center;
+}
+
+.small-headers {
+    text-align: center;
+    margin-top: 5rem;
+}
