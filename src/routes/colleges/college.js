@@ -40,6 +40,9 @@ export default function IndexPage() {
         Insert HTML/React code below this
         */}
       <Container>
+      
+      <h1 id="college-name"> {obj.Name == null ? "" : obj.Name} </h1>
+      
         <div>
           <img
             src={obj.Picture == null ? "" : obj.Picture}
@@ -49,7 +52,6 @@ export default function IndexPage() {
           />
         </div>
 
-        <h1 id="college-name"> {obj.Name == null ? "" : obj.Name} </h1>
         <br />
         <p id="college-location">{obj.Location == null ? "" : obj.Location}</p>
         <a href={obj.Link == null ? "" : obj.Link} id="college-link">
