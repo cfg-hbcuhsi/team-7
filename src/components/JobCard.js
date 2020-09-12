@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 import ReactReadMoreReadLess from "react-read-more-read-less";
 
 export default function JobCard(props) {
+    console.log(props);
   return (
     <Card style={{ width: "auto" }} className="p-0 mr-0 ml-0">
       <Card.Img variant="" src={props.picture} />
@@ -20,7 +21,7 @@ export default function JobCard(props) {
             {props.description}
           </ReactReadMoreReadLess>
         </Card.Text>
-        <Button variant="primary">See More</Button>
+        <a href={`./careers/${props.id}`}><Button variant="primary">See More</Button></a>
       </Card.Body>
     </Card>
   );

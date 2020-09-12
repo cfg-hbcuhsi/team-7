@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import LandingPage from './routes/index';
 import ChatBot from './routes/chatbot/index';
 import Careers from './routes/careers/index'
-import JobDetails from './routes/jobdetails/index';
+import JobDetails from './routes/careers/id';
 
 function App() {
   return (
@@ -12,8 +12,8 @@ function App() {
               <Route path="/" component={LandingPage} exact />
               <Route path="/example" component={LandingPage} />
               <Route path="/chatbot" component={ChatBot} />
+              <Route path="/careers/:id" component={JobDetails}/>
               <Route path="/careers" component={Careers} />
-              <Route path="/jobdetails" component={JobDetails}/>
             </Switch>
       </BrowserRouter>
   );
