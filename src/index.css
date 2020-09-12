@@ -1,4 +1,7 @@
-.react-read-more-read-less  {
-    color: blue;
-    text-decoration: underline;
+.react-read-more-read-less {
+  color: blue;
+  text-decoration: underline;
+}
+.container {
+  padding-top: 40px;
 }
