@@ -1,0 +1,84 @@
+[
+    {
+        "Name": "California State University, Bakersfield",
+        "ID": 1,
+        "Location": "9001 Stockdale Highway Bakersfield, CA 93311",
+        "About": "California State University, Bakersfield is a public university in Bakersfield, California. It was established in 1965, as Kern State College and officially California State College Bakersfield in 1968 on a 375-acre campus, becoming the 20th school in the 23-campus California State University system.",
+        "Link": "https://www.csub.edu/",
+        "Cost": ["Before aid: $25,031", "After aid: $5,678"]
+    },
+
+    {
+        "Name": "California State University, Long Beach",
+        "ID": 2,
+        "Location": "1250 Bellflower Boulevard Long Beach, California 90840",
+        "About": "California State University, Long Beach is a public university in Long Beach, California. The university offers 82 different Bachelor's degrees, 65 types of Master's degrees, and four Doctoral degrees. It is home to one of the largest publicly funded art schools in the United States.",
+        "Link": "https://www.csulb.edu/",
+        "Cost": ["Before aid: $25,258", "After aid: $8,982"]
+    },
+
+     {
+        "Name": "San Diego State University",
+        "ID": 3,
+        "Location": "5500 Campanile Drive San Diego, CA 92182",
+        "About": "San Diego State University is a public research university in San Diego, California. Founded in 1897 as San Diego Normal School SDSU has a Fall 2019 student body of 35,081 and an alumni base of more than 300,000.",
+        "Link": "https://www.sdsu.edu/",
+        "Cost": ["Before aid: $30,522", "After aid: $15,287"]
+    },
+
+   {
+        "Name": "San Jose State University",
+        "ID": 4,
+        "Location": "1 Washington Sq, San Jose, CA 95192",
+        "About": "San José State University is a public university in San Jose, California. SJSU is the oldest public university on the West Coast and the founding campus of the California State University system. Located in downtown San Jose, the SJSU main campus is situated on 154 acres, or roughly 19 square blocks.",
+        "Link": "https://www.sjsu.edu/",
+        "Cost": ["Before aid: $30,065", "After aid: $15,270"]
+    },
+     {
+        "Name": "University of California Berkeley",
+        "ID": 5,
+        "Location": "Berkeley, CA",
+        "About": "The University of California, Berkeley is a public research university in Berkeley, California. Established in 1868 as the state's first land-grant university, it is the oldest campus of the University of California system and a founding member of the Association of American Universities.",
+        "Link": "https://www.Berkeley.edu/",
+        "Cost": ["Before aid: $39,376", "After aid: $14,846"]
+    },
+     {
+        "Name": "University of California Davis",
+        "ID": 6,
+        "Location": "One Shields Avenue, Davis, CA 95616",
+        "About": "The University of California, Davis is a public research university and land-grant university located near Davis, California. It is one of the ten campuses of the University of California system, and has the third-largest enrollment in the system after UCLA and UC Berkeley.",
+        "Link": "https://www.Ucdavis.edu/",
+        "Cost": ["Before aid: $35,935", "After aid: $14,729"]
+    },
+    {
+        "Name": "University of California Riverside",
+        "ID": 7,
+        "Location": "One Shields Avenue, Davis, CA 95616",
+        "About": "The University of California, Riverside is a public research university in Riverside, California. It is one of the 10 general campuses of the University of California system. The main campus sits on 1,900 acres in a suburban district of Riverside with a branch campus of 20 acres in Palm Desert.",
+        "Link": "https://www.Ucr.edu/",
+        "Cost": ["Before aid: $35,387", "After aid: $12,743"]
+    },
+     {
+        "Name": "University of California Los Angeles",
+        "ID": 8,
+        "Location": "Los Angeles, CA 90095",
+        "About": "The University of California, Los Angeles is a public research university in Los Angeles, California. UCLA traces its early origins back to 1882 as the southern branch of the California State Normal School.",
+        "Link": "https://www.Ucla.edu/",
+        "Cost": ["Before aid: $35,793", "After aid: $14,171"]
+    },
+     {
+        "Name": "Pomona College",
+        "ID": 9,
+        "Location": "333 N College Way, Claremont, CA 91711",
+        "About": "Pomona College is a private liberal arts college in Claremont, California. It was established in 1887 by a group of Congregationalists who wanted to recreate a \"college of the New England type\" in Southern California, and in the 1920s it became the founding member of the Claremont Colleges consortium.",
+        "Link": "https://www.Pomona.edu/",
+        "Cost": ["Before aid: $74,480", "After aid: $13,622"]
+    },
+    {
+        "Name": "Charles R. Drew University of Medicine and Science",
+        "ID": 10,
+        "Location": "1731 E 120th St, Los Angeles, CA 90059",
+        "About": "Charles R. Drew University of Medicine and Science is a private historically black graduate school in Willowbrook, California. It was founded in 1966 in response to inadequate medical access within the Watts region of Los Angeles, California. The university is named in honor of Charles R. Drew.",
+        "Link": "https://www.cdrewu.edu/",
+        "Cost": ["Before aid: $36,304", "After aid: $14,304"]
+    }]  
