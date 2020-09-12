@@ -3,6 +3,7 @@ import NavBar from "../../components/NavBar";
 import { Container, Row, Col, Image } from "react-bootstrap";
 import { useParams } from "react-router-dom";
 import Jobs from "../../json/jobs.json";
+import CurrencyFormat from 'react-currency-format';
 
 //function that grabs the object with the same ID
 const getJsonObject = async (id) => {
@@ -32,7 +33,7 @@ export default function IndexPage() {
               </h1>
             </Row>
             <Row>
-              <h3>Median Salary - ${obj.Salary == undefined ? "" : obj.Salary}</h3>
+              <h3>Median Salary - <CurrencyFormat value={obj.Salary == undefined ? "" : obj.Salary} displayType={'text'} thousandSeparator={true} prefix={'$'} /></h3>
             </Row>
           </Col>
           <Col>
