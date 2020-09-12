@@ -36,6 +36,7 @@ export default function Careers() {
                   description={obj[0].Description}
                   link={obj[0].Link}
                   picture={obj[0].Picture}
+                  id={obj[0].ID}
                 />
               </Col>
               <Col key={`col-${obj[1].ID}`} sm={4} className="ml-0">
@@ -46,6 +47,7 @@ export default function Careers() {
                   description={obj[1].Description}
                   link={obj[1].Link}
                   picture={obj[1].Picture}
+                  id={obj[1].ID}
                 />
               </Col>
               <Col key={`col-${obj[2].ID}`} sm={4} className="ml-0">
@@ -56,6 +58,7 @@ export default function Careers() {
                   description={obj[2].Description}
                   link={obj[2].Link}
                   picture={obj[2].Picture}
+                  id={obj[2].ID}
                 />
               </Col>
             </Row>

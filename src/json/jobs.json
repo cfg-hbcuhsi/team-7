@@ -5,7 +5,7 @@
         "Description": "Software developers invent the technologies we sometimes take for granted. For instance, that app that rings, sings or buzzes you out of a deep sleep every morning? A software developer helped design that. And when you roll into the office and turn on your computer, clicking and scrolling through social media, music and your personal calendar – software developers had a big hand in shaping those, too.",
         "Salary": 103620,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRg4Va7YMqM9loi49RwZubmPd_YluiwiatPeg&usqp=CAU",
-        "Links": "https://www.youtube.com/watch?v=bX8hvldRx1M"
+        "Link": "https://www.youtube.com/embed/bX8hvldRx1M"
     },
     {
         "Name": "Dentist",
@@ -13,7 +13,7 @@
         "Description": "Dentists identify and treat problems concerning a patient's mouth, gums and teeth. Their duties include extracting teeth, fitting dentures and filling cavities. Some choose to specialize in areas that range from treating serious oral problems and diseases to straightening teeth and performing oral surgeries. They are assisted by dental hygienists, who complete a patient's teeth cleaning, and by dental assistants, who usually help with record keeping and instrument sterilization.",
         "Salary": 151850,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSe_xweU-neTVzZaKTTDt_llVKDCNckG4RDNw&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=YcdyU7lzI1s"
+        "Link": "https://www.youtube.com/embed/YcdyU7lzI1s"
     },
     {
         "Name": "Physician Assistant",
@@ -21,7 +21,7 @@
         "Description": "Physician assistants diagnose illnesses, develop and carry out treatment plans, assist in surgeries, perform procedures and guide patients. Their work is very similar to that of a general internist or doctor, but in most states, PAs must collaborate with a licensed physician or surgeon to practice.",
         "Salary": 108610,
         "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRZMf_5gia_chrTY9UvWs8KUPACIn9GJeSuA&usqp=CAU", 
-        "Link": "https://www.youtube.com/watch?v=3cxtGgstZDE"
+        "Link": "https://www.youtube.com/embed/3cxtGgstZDE"
     },
     {
         "Name": "Orthodontist",
@@ -29,7 +29,7 @@
         "Description": "Orthodontists are dental specialists who remedy problems with improper bites and askew teeth. They examine patients' mouths and jaws to design an orthodontic program for the two-fold purpose of helping patients achieve and maintain proper function jaws while also perfecting their smiles.\nWhat do Faith Hill, Emma Watson, Tom Cruise and even Prince Harry all have in common? Braces. Orthodontists are responsible for these devices and the beautiful pearly white smiles they create. Robert E. Varner, president of the American Association of Orthodontists, says that some of the most momentous events during the first few decades of life – in addition to getting a driver's license or getting married – include getting braces taken off. In his office, patients get their pictures taken before and after their orthodontics work. \"When we look at the before and afters, it's so amazing,\" he says. \"It's really one of the most wonderful parts of the job.\"",
         "Salary": 208000,
         "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_YLmYd0VbSLLLPy4K-_UzAotMDQ2lkecuyw&usqp=CAU", 
-        "Link": "https://www.youtube.com/watch?v=kMWBEaPB-b" 
+        "Link": "https://www.youtube.com/embed/kMWBEaPB-b" 
     },
     {
         "Name": "Nurse Practitioner",
@@ -37,7 +37,7 @@
         "Description": "Nurse practitioners are registered nurses with additional education. Extra schooling allows these professionals to take patient histories, perform physical exams, order labs, analyze lab results, prescribe medicines, authorize treatments and educate patients and families on continued care.\nNurse practitioners, also known as advanced practice registered nurses, specialize by patient population, training to work in areas like women's health or pediatrics. They may also work in research or academia.\nTheir job sounds similar to a physician's role, right? So, what's the difference? The main contrast is the amount of formal education required. Physicians have more training, and their breadth of knowledge and their salaries are usually commensurate with their additional work. However, increasingly – and somewhat controversially – nurse practitioners are providing primary care to patients.", 
         "Salary": 107030,
         "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbyQXeNW9PDZ4cy8jj_9jH166aPwF0BFUsQ&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=7SzniR8pwQQ"
+        "Link": "https://www.youtube.com/embed/7SzniR8pwQQ"
     },
     {
         "Name": "Statistician",
@@ -45,7 +45,7 @@
         "Description": "Statisticians practice the science of using data to make decisions. They decide what data they need and how to collect it, design experiments, collect data, analyze and interpret data, and report conclusions. And unlike most professions, statistics can be applied to a vast number of fields or issues, like the environment, public safety, health care and sports. As the famous mathematician and statistician John Tukey once told a colleague, \"The best thing about being a statistician is that you get to play in everyone's backyard.\"\nDevan Mehrotra, executive director of the biostatistics department at Merck Research Laboratories, says, \"I absolutely fell in love with statistics. Any real-world problem almost always is going to require some data to be analyzed and interpreted, generating value-added solutions by using statistics.\"", 
         "Salary": 87780,
         "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFz81tUjyujXRnbWCafWGxQTOhRIuEqaNkfA&usqp=CAU" , 
-        "Link":"https://www.youtube.com/watch?v=BLojcXHQtWc" 
+        "Link":"https://www.youtube.com/embed/BLojcXHQtWc" 
     },    
     {
         "Name": "Physician",
@@ -53,7 +53,7 @@
         "Description": "They're the people we call when the contractions come every five minutes. We rush to them for broken arms, and we make appointments when we find irregular freckles. We come to them with coughs and colds and when we suspect that mom might be losing her memory or that dad's heart is working too hard. They're obstetricians and gynecologists, ER doctors, dermatologists, primary care providers, neurologists and cardiologists.\nThere are two main types of physicians: a Doctor of Medicine or a Doctor of Osteopathy. Both diagnose and treat patients for a range of medical issues, although a D.O. might also specialize in preventive medicine and holistic patient care. Within these categories, there are a host of specialties, from radiology to allergy and immunology, plastic surgery to urology, and pediatrics to geriatrics.", 
         "Salary": 194500,
         "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCGfc6JTgDbR0H3WRqp-DMb_jk3g0zz65nGg&usqp=CAU" , 
-        "Link":"https://www.youtube.com/watch?v=1nI8u7NT-V4"
+        "Link":"https://www.youtube.com/embed/1nI8u7NT-V4"
     },
     {
         "Name": "Speech-Language Pathologist",
@@ -61,7 +61,7 @@
         "Description": "Speech-language pathologists evaluate, diagnose and treat people with speech, language or swallowing difficulties. They work with many types of patients, including stroke victims who are relearning to speak, babies who have trouble swallowing, people who speak with a stutter and children with language delays.\n\"Our field is so broad,\" says Karen George, a speech-language pathologist and owner of Chicago Speech Therapy. \"We’re trained to work with babies through adults – the entire lifespan.\"\nSometimes called speech therapists, SLPs work in a variety of settings, such as rehabilitation centers and nursing homes. George started her career in a hospital before moving to her own private practice, while Theresa Rodgers, president of the American Speech-Language-Hearing Association, spent her career in a public school setting.", 
         "Salary": 77510,
         "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMwAflY5ptbxzOlOedUHIeldo3qj6Zr6FyvA&usqp=CAU" ,
-        "Link":"https://www.youtube.com/watch?v=_VwR8zJGCzQ" 
+        "Link":"https://www.youtube.com/embed/_VwR8zJGCzQ" 
     },
     {
         "Name": "Oral and Maxillofacial Surgeon",
@@ -69,7 +69,7 @@
         "Description": "Oral and maxillofacial surgeons perform surgeries on the face, mouth and jaw. These professionals are dentists with at least four years of additional surgery training, so they can do everything from treating facial traumas to fixing cleft lips. They can diagnose and treat patients with head, neck and oral cancer. They can even administer anesthesia and perform cosmetic surgeries, such as face-lifts. But even though their specialty is specific, the technology used to treat and operate on the face, mouth and jaw is constantly evolving. \n\"You have to have a commitment to lifelong learning,\" says Louis Rafetto, president-elect of the American Association of Maxillofacial Surgeons, chairman of the oral and maxillofacial residency program at Christiana Care Health Systems and a private practitioner in Wilmington, Delaware. In general, Rafetto says, \"the surgeries will stay the same, but the way we do them will change.\"",
         "Salary": 208000,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTczr0hzG43zdlisCCT38PAaZjwZkwociQTDg&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=RZjx6b7-Zus"
+        "Link": "https://www.youtube.com/embed/RZjx6b7-Zus"
     },
     {
         "Name": "Veterinarian",
@@ -77,7 +77,7 @@
         "Description": "Veterinarians examine, diagnose and treat animals. They can also perform surgeries, care for wounds, vaccinate against diseases and prescribe medications. In worst-case scenarios, vets are also qualified to euthanize sick or dying animals.\nSome of the biggest changes Dr. Lorin D. Warnick, dean of the College of Veterinary Medicine at Cornell University, has seen over the course of his career are people's attitudes toward their pets. \"Many more people view animals as family members,\" he says. And that means their expectation for the quality of care is much higher now as well.\nTechnology in the field has also evolved, Warnick says. Vets are now using everything from advanced surgical technologies to fight cancer to MRIs to care for animals. Genomics are also being used to test for specific genetic traits.", 
         "Salary": 93830,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2dG2D9r70HcWRrPz0gpCwC5QHIdCQ4lQVuQ&usqp=CAU",
-        "Link":"https://www.youtube.com/watch?v=Vk2fyNSUalw" 
+        "Link":"https://www.youtube.com/embed/Vk2fyNSUalw" 
     },
     {
         "Name": "Medical and Health Services Manager",
@@ -85,7 +85,7 @@
         "Description": "Medical and health services managers are the planners, directors and coordinators who work behind the scenes to keep hospitals, nursing homes, group practices and other health care facilities running efficiently. In short, they are super-organized professionals.\nMedical and health services managers are usually extremely detail-oriented people with good analytical skills. Because much of their time is spent working with doctors, health insurance representatives and other administrators, they should also have good interpersonal and communication skills. Problem-solving is another part of the job. Technical skills are also a must because these professionals must keep up-to-date with software and electronic health records.",
         "Salary": 99730,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxVlIoE-FDNTgX5CNZVPpknkEDkQc0K89Y1w&usqp=CAU",
-        "Link":"https://www.youtube.com/watch?v=iCMMtfr5MyE"
+        "Link":"https://www.youtube.com/embed/iCMMtfr5MyE"
     },
     {
         "Name": "IT Manager",
@@ -93,7 +93,7 @@
         "Description": "Computer and information systems managers, or information technology managers, are the guides who help organizations navigate the always-changing labyrinth that is modern technology. These all-important employees deliver short- and long-term visions for the company's technology needs and goals. Even though most IT managers have the technical chops to execute the various jobs of the workers they supervise, they are more likely to be caught in a meeting room than a server room.\nCoordinating technology-related matters with top executives, planning upgrades of existing software or hardware and negotiating with vendors for the service of current products or the purchase of new ones are all common tasks IT managers encounter. IT managers also install and upgrade an organization's computer system and protect the office network from hackers and malware.",
         "Salary": 142530,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiZ_aXXY9_GefWur3ZKZRGfgpqsVLEtDkZNA&usqp=CAU",
-        "Link":"https://www.youtube.com/watch?v=hFhuMGanjT8"
+        "Link":"https://www.youtube.com/embed/hFhuMGanjT8"
     },    
     {
         "Name": "Registered Nurse",
@@ -101,7 +101,7 @@
         "Description": "Registered nurses are responsible for monitoring a patient's condition, performing medical procedures and administering medicine. They also chart a patient's progress. These professionals work with a range of patients, from those who are healthy (and are proactively trying to stay that way), to those who are pregnant and bringing new life, to those who are nearing the end of life and hoping for a peaceful death.",
         "Salary": 71730,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxVlIoE-FDNTgX5CNZVPpknkEDkQc0K89Y1w&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=1RwrSEMei8g"
+        "Link": "https://www.youtube.com/embed/1RwrSEMei8g"
     },
     {
         "Name": "Mathematician",
@@ -109,7 +109,7 @@
         "Description": "A mathematician can be anyone from your middle school algebra teacher to a computer programmer. Some mathematicians primarily conduct research to explore and develop theories, while others are applied mathematicians who use theories and techniques to solve everyday problems. Theory is a huge part of a mathematician's job. Mathematicians use formulas and models to support or refute theories. Data is also an important aspect in the field, as mathematicians analyze and interpret data for practical purposes, such as business, engineering or science decisions and problems. Common positions mathematicians fill include financial analysts, systems analysts, professors and elementary, middle and high school teachers.",
         "Salary": 101900,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAMvD6wlVUnV61nRRMOlVmfmAxSPo530dedg&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=i_huFgSUBRg"
+        "Link": "https://www.youtube.com/embed/i_huFgSUBRg"
     },
     {
         "Name": "Physical Therapist",
@@ -117,7 +117,7 @@
         "Description": "Many doctors refer patients with physical issues from athletic injuries to neurological traumas to physical therapists. These professionals come to the rescue after a stress fracture sidelines a runner, when an awkward slide into home base benches a softball player or after a stroke keeps a person bedridden.\nFirst, physical therapists evaluate a patient and examine his or her medical records. Then, they plan and execute rehabilitative programs designed to improve the patient's mobility, increase his or her strength and relieve or at least lessen his or her pain. Treatment plans often include different exercises and stretches, as well as hands-on therapies and machines that assist with improving muscle strength, range of motion and motor function.",
         "Salary": 87930,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa2GDpJb4MgFoABd1kQdibrA5ya0egit18UQ&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=VWDsuPcwcs4"
+        "Link": "https://www.youtube.com/embed/VWDsuPcwcs4"
     },
     {
         "Name": "Optometrist",
@@ -125,7 +125,7 @@
         "Description": "Optometrists meet with patients and perform different tests to determine common eyesight issues, such as near- or farsightedness, for which they can prescribe glasses or contacts. They can also test patients for eye diseases, such as glaucoma, for which they can prescribe medicines. Optometrists can also perform vision therapy for other issues, such as eye-movement or eye-tracking problems. Sometimes optometrists run across a problem like diabetic retinopathy, which is symptomatic of a systemic problem like diabetes.\nEyesight is invaluable for everyday tasks like walking through a doorway or driving a car and also for pleasures like watching a sunset, reading a book or viewing a film. If you were to take a poll on which of the five senses are most important to people, sight would probably be high on the list. That's why an optometrist's job is so important. \"We want to help patients achieve their best vision on a day-to-day basis,\" says Teri Geist, communication chair of the American Optometric Association and a practicing optometrist. \nThe Bureau of Labor Statistics projects 9.5 percent employment growth for optometrists between 2018 and 2028. In that period, an estimated 4,000 jobs should open up.",
         "Salary": 111790,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjd0k5Y5ExbpYqLS_vSN_Xhg-pHD7s7tOm6A&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=rK-f6SPXc4I"
+        "Link": "https://www.youtube.com/embed/rK-f6SPXc4I"
     },
     {
         "Name": "Anesthesiologist",
@@ -133,7 +133,7 @@
         "Description": "Anesthesiologists are the physicians responsible for administering general or regional anesthesia, which allows surgeons and other physicians to complete invasive procedures with little to no discomfort to the patient. Anesthesiologists also closely monitor a patient's vital signs and critical life functions before, during and after a surgery – making rapid decisions on limited data when required. To say that the profession is stressful is an understatement.\nMore than 150 years ago, ether – the first anesthetic – was hailed as the \"greatest gift ever made to suffering humanity.\" Today the drugs are different, but any woman who has experienced the excruciating pain of contractions followed by the amazing relief of an epidural will tell you that anesthesia remains one of the greatest gifts to humanity.",
         "Salary": 208000,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjd0k5Y5ExbpYqLS_vSN_Xhg-pHD7s7tOm6A&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=jtGh67sbZCU"
+        "Link": "https://www.youtube.com/embed/jtGh67sbZCU"
     },
     {
         "Name": "Obstetrician and Gynecologist",
@@ -141,7 +141,7 @@
         "Description": "Obstetricians and gynecologists bring new life into the world and care for the spectrum of women's reproductive health. Obstetrics is the surgical field that deals in childbirth, whereas gynecology is the field of medicine concerned with women's health, especially their reproductive health. One can be a gynecologist and not an obstetrician, though one cannot be an obstetrician without being a gynecologist. OB-GYNs see patients in physicians' offices for routine \"well-woman\" exams, which could include contraceptive management and HPV screening.\nMark S. DeFrancesco, president of the American College of Obstetricians and Gynecologists, writes in an email, \"You cannot imagine what it feels like to deliver a baby – to be the first person to hold another new life in your hands and help create a new family!\"\nThey also assist patients who come to them with issues like abnormal bleeding. \"To be able to accurately diagnose and successfully treat these problems is extremely gratifying,\" DeFrancesco says. And of course, OB-GYNs also work in the labor and delivery section of hospitals, monitoring mothers and babies during labor and – when things don't go as planned – making medical decisions to protect the lives of both.\nSimilar to other health care professions, obstetrics and gynecology is not without its stresses. According to DeFrancesco, OB-GYNs worry that they might have missed some problem or sign of illness, that an extremely rare tragedy will befall one of their labor and deliveries and that they might be sued for medical malpractice even if they made no mistakes. DeFrancesco says this field is especially vulnerable, since OB-GYN patients are predominantly young and presumably healthy. \"When things go wrong, it is very unexpected,\" he says.",
         "Salary": 208000,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlpes-tLSHRw_vcPJDUgTdVVVbE86r7yNmJQ&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=cYyIpzlkq7E" 
+        "Link": "https://www.youtube.com/embed/cYyIpzlkq7E" 
     },
     {
         "Name": "Surgeon",
@@ -149,7 +149,7 @@
         "Description": "Surgeons operate on patients who suffer from injuries, diseases or deformities. These professionals can train toward becoming general surgeons, or they can choose a specialization, such as orthopedic, neurological, cardiovascular or plastic surgery.\nProspective surgeons should understand the gravity of the job they're undertaking, but a sense of humor might be an imperative trait, too. When asked what first drew her to microsurgery – a surgery specialty that requires the use of an operating microscope – Siemionow gives a twofold answer that shows both her seriousness and her sense of humor. First, it's a good place to learn a lot. If someone has mastered the art of sewing and suturing arteries and veins under magnification, then he or she is skilled enough to sew and suture larger arteries and veins that don't require microscopes. Second, it was the cool thing to do. \"When I was finishing medical school, it was a popular field – it was generally the cool thing to do at the time,\" she says. \"Today, people are talking about in vitro fertilization and stem cell therapies – that's the cool of now. [Back then,] if you were interested in surgery, you did microsurgery.\"",
         "Salary": 208000,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSFRhw6viKPs5ctLMVaxLIMwqfszKvrQ9Efg&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=Sb64DcYyaug"
+        "Link": "https://www.youtube.com/embed/Sb64DcYyaug"
     },
     {
         "Name": "Operations Research Analyst",
@@ -157,7 +157,7 @@
         "Description": "Operations research analysts are high-level problem-solvers who use advanced techniques, such as optimization, data mining, statistical analysis and mathematical modeling, to develop solutions that help businesses and organizations operate more efficiently and cost-effectively. For example, UPS uses operations research to chart the flow of packages, provide real-time route guidance to drivers and help plan and manage distribution. In the healthcare field, the Memorial Sloan-Kettering Cancer Center in New York used operations research to design a radiation treatment plan for prostate patients using sophisticated modeling and computation techniques.",
         "Salary": 83390,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDMlgQ4GNnHkwrBpu_SH-HK1X_p8Nwg31H8A&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=y4luue9VZag" 
+        "Link": "https://www.youtube.com/embed/y4luue9VZag" 
     },
     {
         "Name": "Nurse Anesthetist",
@@ -165,7 +165,7 @@
         "Description": "Nurse anesthetists can use a number of intravenous drugs and inhaled gasses to administer general or regional anesthesia, so surgeons and other physicians can complete procedures with little to no discomfort to the patient. Modern anesthesia has come a long way from the chloroform administered by the first nurse anesthetists in the Civil War. \"Anesthesia is safer today than it's ever been,\" says Frank Gerbasi, a certified registered nurse anesthetist and executive director of the Council on Accreditation of Nurse Anesthesia Educational Programs.",
         "Salary": 167950,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQnfVizlKJeD6yAimk12kdc_ODEfwzoSqICA&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=QY1PMxGqkLo"
+        "Link": "https://www.youtube.com/embed/QY1PMxGqkLo"
     },
     {
         "Name": "Pediatrician",
@@ -173,7 +173,7 @@
         "Description": "Pediatricians are doctors concerned with the physical, emotional and social well-being of children from infancy to young adulthood. Although it is a specialty in itself, pediatrics also has multitudinous subspecialties ranging from neonatology, oncology and hematology to developmental-behavioral pediatrics and psychiatry. Those who choose to be pediatricians have to love being around children and advocating for children's issues.",
         "Salary": 170560,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMVSLZVpaSgroInTqGkr1-SlBB5E0EC8Mz8w&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=dyzpSVYM5xw"
+        "Link": "https://www.youtube.com/embed/dyzpSVYM5xw"
     },
     {
         "Name": "Web Developer",
@@ -181,7 +181,7 @@
         "Description": "Web developers are responsible for creating websites. When these artists do their jobs well, everything about a site seems to fit together superbly, from the colors and graphics, to the images and special effects (or \"animation,\" to those in the know), to the navigation.\nAlthough some web developers will design a website's front and back end, many web development companies split these responsibilities. For instance, some web developers will work in Photoshop to create the overall design, while others will be in charge of writing the code in programming languages such as HTML and CSS. Developers must take into account a client’s products or services as well as the target market to create a site that appeals to the client’s customers or intended audience. The job requires a knowledge of software programs, web applications and programming languages, as well as a solid understanding of design principles. Work environments for web developers vary from large corporations or governments to small businesses. Developers may be full-time employees or part-time consultants, or work on a contract basis as freelancers.",
         "Salary": 69430,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIfFhHSoUy56iCJSvpR2A72SnPRbslK2SkdQ&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=8SIpMztZhwg"
+        "Link": "https://www.youtube.com/embed/8SIpMztZhwg"
     },
     {
         "Name": "Dental Hygienist",
@@ -189,7 +189,7 @@
         "Description": "Dental hygienists will clean a patient's teeth, removing tartar, stains and plaque as they brush, floss and scrape. Dental hygienists are also involved in educating patients on the best ways to brush and floss teeth, as well as which products to use.\nThe majority of the more than 200,000 dental hygienists work in dental offices alongside dentists. Think of a dental hygienist as an insurance agent. \"You see dentists when you have a problem,\" says Kelli Swanson Jaecks, former president of the American Dental Hygienists' Association. \"But you see dental hygienists for preventative health care.\"",
         "Salary": 74820,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ62aAvBSqk--KTuXCmCa7RN7SSZsg_kByLVQ&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=4SKiWwepNDo"
+        "Link": "https://www.youtube.com/embed/4SKiWwepNDo"
     },
     {
         "Name": "Genetic Counselor",
@@ -197,6 +197,6 @@
         "Description": "Imagine a biology teacher teaming up with a therapist, and you'll start to picture what a genetic counselor does. A genetic counselor combs through a patient's family tree to highlight any potential health risks. For example, a person with a family history of cancer might meet with a genetic counselor to determine his or her risk for receiving similar diagnoses. If a patient decides to move forward with a genetic test, the counselor then coordinates laboratory work – usually a blood test – for a clearer picture of any genetic risks. Next comes the interpretation, where the counselor examines test results to look for any mutations that might explain a current disorder or syndrome, or that might predict future ones. The counselor then sits with the patient and his or her family to explain the findings and their ramifications. If necessary, genetic counselors also discuss the ways in which the information might be used in a patient's medical care.",
         "Salary": 80370,
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_ermnH6-AzLSbtqqi_VJvetGOgxqp5sXjWw&usqp=CAU",
-        "Link": "https://www.youtube.com/watch?v=jCkhBJ8LTs4"
+        "Link": "https://www.youtube.com/embed/jCkhBJ8LTs4"
     }
 ]

@@ -2,13 +2,7 @@ import React from "react";
 import NavBar from "../components/NavBar";
 import Carousel from "../components/Carousel";
 import BoxDesc from "../components/BoxDesc";
-<<<<<<< HEAD
-import Mission from "../components/Mission";
-import { Row, Container, Col, Card } from "react-bootstrap";
-=======
 import { Row, Container, Col, Card, Button } from "react-bootstrap";
-
->>>>>>> 0a9dbb1037632ab93ff41b83e0dc3425bded3202
 
 export default function IndexPage() {
   return (
@@ -17,10 +11,6 @@ export default function IndexPage() {
       <Container>
         <Row>
           <Carousel />
-<<<<<<< HEAD
-          <Mission />
-          <BoxDesc />
-=======
         </Row>
         <BoxDesc />
         <Row>
@@ -58,7 +48,6 @@ export default function IndexPage() {
           <h1 className="mx-auto mt-3" style={{ fontFamily: "Arial" }}>
             Their Mission:
           </h1>
->>>>>>> 0a9dbb1037632ab93ff41b83e0dc3425bded3202
         </Row>
         <Row>
           <h4 style={{ fontFamily: "Arial" }} className="text-center mb-5">
