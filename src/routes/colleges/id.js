@@ -32,14 +32,6 @@ export default function IndexPage() {
       <NavBar />
       <Container>
         <Row>
-          {/* {
-        "Name": "Software Developer",
-        "ID": 1,
-        "Description": "Software developers invent the technologies we sometimes take for granted. For instance, that app that rings, sings or buzzes you out of a deep sleep every morning? A software developer helped design that. And when you roll into the office and turn on your computer, clicking and scrolling through social media, music and your personal calendar – software developers had a big hand in shaping those, too.",
-        "Salary": 103620,
-        "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRg4Va7YMqM9loi49RwZubmPd_YluiwiatPeg&usqp=CAU",
-        "Links": "https://www.youtube.com/embed/bX8hvldRx1M"
-    }, */}
           <Col>
             <Row>
               <h1 class="display-4">

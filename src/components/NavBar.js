@@ -1,12 +1,8 @@
 import React from "react";
 import { Navbar, Nav, Form, FormControl, Button } from "react-bootstrap";
 import { useHistory } from "react-router-dom";
-<<<<<<< HEAD
+import ChatBot from "../components/Chatbot";
 
-=======
-import ChatBot from "../components/Chatbot"
-  
->>>>>>> fd954415b144bf1012b3ca3669c4c5c8e9783890
 export default function App() {
   let history = useHistory();
 

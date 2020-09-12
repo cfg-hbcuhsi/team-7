@@ -3,10 +3,7 @@ import NavBar from "../components/NavBar";
 import Carousel from "../components/Carousel";
 import BoxDesc from "../components/BoxDesc";
 import { Row, Container, Col, Card, Button } from "react-bootstrap";
-<<<<<<< HEAD
-=======
-import ChatBot from "../components/Chatbot"
->>>>>>> fd954415b144bf1012b3ca3669c4c5c8e9783890
+import ChatBot from "../components/Chatbot";
 
 export default function IndexPage() {
   return (
@@ -61,6 +58,60 @@ export default function IndexPage() {
             education, and providing safe places for all children to play and be
             active.
           </h4>
+        </Row>
+        <Row>
+          <h2 className="mx-auto mt-3" style={{ fontFamily: "Arial" }}>
+            CONNECT WITH THEM
+          </h2>
+        </Row>
+        <Row
+          style={{
+            display: "block",
+            textAlign: "center",
+            fontSize: "3rem",
+          }}
+        >
+          <a href="https://twitter.com/eatlearnplay" target="_blank">
+            <i
+              alt="Twitter"
+              class="fab fa-twitter"
+              style={{ color: "#00BFFF", margin: "20px" }}
+            ></i>
+          </a>
+          <a href="https://www.facebook.com/EatLearnPlay" target="_blank">
+            <i
+              alt="Facebook"
+              class="fab fa-facebook"
+              style={{ color: "#3b5998", margin: "20px" }}
+            ></i>
+          </a>
+          <a
+            href="https://www.instagram.com/eatlearnplay/?hl=en"
+            target="_blank"
+          >
+            <i
+              alt="Instagram"
+              class="fab fa-instagram"
+              style={{ color: "#FF1493", margin: "20px" }}
+            ></i>
+          </a>
+          <a
+            href="https://www.linkedin.com/company/eat-learn-play-foundation/"
+            target="_blank"
+          >
+            <i
+              alt="LinkedIn"
+              class="fab fa-linkedin"
+              style={{ margin: "20px" }}
+            ></i>
+          </a>
+          <a href="https://www.youtube.com/watch?v=PU7n6fZzqFM" target="_blank">
+            <i
+              alt="Youtube"
+              class="fab fa-youtube"
+              style={{ color: "red", margin: "20px" }}
+            ></i>
+          </a>
         </Row>
       </Container>
     </>
