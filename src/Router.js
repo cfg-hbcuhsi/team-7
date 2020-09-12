@@ -4,6 +4,7 @@ import LandingPage from "./routes/index";
 import ChatBot from "./routes/chatbot/index";
 import Careers from "./routes/careers/index";
 import Colleges from "./routes/colleges/index";
+import CollegeDetails from "./routes/colleges/id";
 import JobDetails from "./routes/careers/id";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Route path="/chatbot" component={ChatBot} />
         <Route path="/careers/:id" component={JobDetails} />
         <Route path="/careers" component={Careers} />
+        <Route path="/careers/:id" component={CollegeDetails} />
         <Route path="/colleges" component={Colleges} />
       </Switch>
     </BrowserRouter>

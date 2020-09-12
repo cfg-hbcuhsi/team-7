@@ -16,13 +16,15 @@ function BoxDesc() {
               Want to learn more about how to make college affordable? Click
               below!
             </Card.Text>
-            <Button
-              variant="primary"
-              className="mx-auto text-center"
-              style={{ display: "block" }}
-            >
-              Learn More!
-            </Button>
+            <a href="/scholarships">
+              <Button
+                variant="primary"
+                className="mx-auto text-center"
+                style={{ display: "block" }}
+              >
+                Learn More!
+              </Button>
+            </a>
           </Card.Body>
         </Card>
         <Card style={{ width: "18rem" }} border="success">
@@ -33,13 +35,15 @@ function BoxDesc() {
               Know you want to go to college, but unsure about your dream
               school? Click below!
             </Card.Text>
-            <Button
-              variant="primary"
-              className="mx-auto"
-              style={{ display: "block" }}
-            >
-              Learn More!
-            </Button>
+            <a href="/colleges">
+              <Button
+                variant="primary"
+                className="mx-auto"
+                style={{ display: "block" }}
+              >
+                Learn More!
+              </Button>
+            </a>
           </Card.Body>
         </Card>
         <Card style={{ width: "18rem" }} border="secondary">
@@ -50,13 +54,15 @@ function BoxDesc() {
               Unsure about what you want to do later in life? That's alright!
               Click below to learn more.
             </Card.Text>
-            <Button
-              variant="primary"
-              className="mx-auto"
-              style={{ display: "block" }}
-            >
-              Learn More!
-            </Button>
+            <a href="/careers">
+              <Button
+                variant="primary"
+                className="mx-auto"
+                style={{ display: "block" }}
+              >
+                Learn More!
+              </Button>
+            </a>
           </Card.Body>
         </Card>
       </CardDeck>
