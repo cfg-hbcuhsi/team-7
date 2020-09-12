@@ -2,6 +2,7 @@ import React from "react";
 import { Card, Button, Row, Col } from "react-bootstrap";
 import PropTypes from "prop-types";
 import ReactReadMoreReadLess from "react-read-more-read-less";
+import CurrencyFormat from 'react-currency-format';
 
 export default function JobCard(props) {
   console.log(props);
@@ -10,7 +11,7 @@ export default function JobCard(props) {
       <Card.Img variant="" src={props.picture} />
       <Card.Body>
         <Card.Title>
-          {props.name} - {props.salary}
+          {props.name} - <CurrencyFormat value={props.salary} displayType={'text'} thousandSeparator={true} prefix={'$'} />
         </Card.Title>
         <Card.Text>
           <ReactReadMoreReadLess
@@ -33,7 +34,7 @@ JobCard.propTypes = {
   name: PropTypes.string,
   id: PropTypes.number,
   description: PropTypes.string,
-  salary: PropTypes.string,
+  salary: PropTypes.number,
   picture: PropTypes.string,
   link: PropTypes.string,
 };

@@ -1,8 +1,13 @@
 import React from "react";
 import { Navbar, Nav, Form, FormControl, Button } from "react-bootstrap";
 import { useHistory } from "react-router-dom";
+<<<<<<< HEAD
 import ChatBot from "../components/Chatbot";
 
+=======
+import ChatBot from "../components/Chatbot"
+  
+>>>>>>> cd4098da3e7b853202d0a18f928f64f7cd395341
 export default function App() {
   let history = useHistory();
 
@@ -25,7 +30,6 @@ export default function App() {
           <Nav.Link href="/scholarships">Scholarships</Nav.Link>
           <Nav.Link href="/colleges">Colleges</Nav.Link>
           <Nav.Link href="/careers">Careers</Nav.Link>
-          <Nav.Link href="/chatbot">Chatbot</Nav.Link>
         </Nav>
         <Form inline>
           <FormControl type="text" placeholder="Search" className="mr-sm-2" />
