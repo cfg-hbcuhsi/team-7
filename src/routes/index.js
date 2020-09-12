@@ -3,7 +3,7 @@ import NavBar from "../components/NavBar";
 import Carousel from "../components/Carousel";
 import BoxDesc from "../components/BoxDesc";
 import { Row, Container, Col, Card, Button } from "react-bootstrap";
-
+import ChatBot from "../components/Chatbot"
 
 export default function IndexPage() {
   return (

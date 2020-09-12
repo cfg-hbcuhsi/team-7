@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar, Nav, Form, FormControl, Button } from "react-bootstrap";
 import { useHistory } from "react-router-dom";
-
+import ChatBot from "../components/Chatbot"
   
 export default function App() {
   let history = useHistory();
@@ -32,6 +32,7 @@ export default function App() {
           <Button variant="outline-info">Search</Button>
         </Form>
       </Navbar>
+      <ChatBot />
     </>
   );
 }
