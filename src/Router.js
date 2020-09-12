@@ -6,6 +6,7 @@ import Colleges from "./routes/colleges/index";
 import CollegeDetails from "./routes/colleges/college";
 import JobDetails from "./routes/careers/id";
 import Scholarships from "./routes/scholarships/index";
+import ScholarshipDetails from "./routes/scholarships/id";
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
         <Route path="/careers" component={Careers} />
         <Route path="/colleges/:id" component={CollegeDetails} />
         <Route path="/colleges" component={Colleges} />
-        <Route path="/colleges/:id" component={CollegeDetails} />
+        <Route path="/scholarships/:id" component={ScholarshipDetails} />
         <Route path="/scholarships" component={Scholarships} />
       </Switch>
     </BrowserRouter>

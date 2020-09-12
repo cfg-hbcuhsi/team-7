@@ -22,7 +22,7 @@ export default function ScholarshipCard(props) {
         <Card.Text>
             {props.amount}
         </Card.Text>
-        <a href={`./scholarships/${props.id}`}>
+        <a href={`/scholarships/${props.id}`}>
           <Button variant="primary">See More</Button>
         </a>
       </Card.Body>

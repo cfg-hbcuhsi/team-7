@@ -22,7 +22,7 @@ export default function JobCard(props) {
             {props.description}
           </ReactReadMoreReadLess>
         </Card.Text>
-        <a href={`./careers/${props.id}`}>
+        <a href={`/careers/${props.id}`}>
           <Button variant="primary">See More</Button>
         </a>
       </Card.Body>

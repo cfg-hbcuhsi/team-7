@@ -18,7 +18,7 @@ export default function CollegeCard(props) {
             {props.about}
           </ReactReadMoreReadLess>
         </Card.Text>
-        <a href={`./colleges/${props.id}`}>
+        <a href={`/colleges/${props.id}`}>
           <Button variant="primary">See More</Button>
         </a>
       </Card.Body>
