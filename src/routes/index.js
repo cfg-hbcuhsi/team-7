@@ -3,7 +3,7 @@ import NavBar from "../components/NavBar";
 import Carousel from "../components/Carousel";
 import BoxDesc from "../components/BoxDesc";
 import { Row, Container, Col, Card, Button } from "react-bootstrap";
-
+import TextTruncate from 'react-text-truncate'; 
 export default function IndexPage() {
   return (
     <>
@@ -40,7 +40,7 @@ export default function IndexPage() {
           </h1>
         </Row>
         <Row>
-          <h4 style={{ fontFamily: "Arial" }} className="text-center">
+          <h4 style={{ fontFamily: "Arial" }} className="text-center mb-5">
             Stephen and Ayesha Curry’s Eat. Learn. Play. Foundation is committed
             to unlocking the amazing potential of every child by fighting to end
             childhood hunger, ensuring students have access to a quality
@@ -63,13 +63,20 @@ export default function IndexPage() {
                   Software Developer - Median Salary: $103,620
                 </Card.Title>
                 <Card.Text>
-                  Software developers invent the technologies we sometimes take
-                  for granted. For instance, that app that rings, sings or
-                  buzzes you out of a deep sleep every morning? A software
-                  developer helped design that. And when you roll into the
-                  office and turn on your computer, clicking and scrolling
-                  through social media, music and your personal calendar –
-                  software developers had a big hand in shaping those, too.
+                <TextTruncate
+                      line={5}
+                      element="p"
+                      truncateText="…"
+                      text=" Software developers invent the technologies we sometimes take
+                      for granted. For instance, that app that rings, sings or
+                      buzzes you out of a deep sleep every morning? A software
+                      developer helped design that. And when you roll into the
+                      office and turn on your computer, clicking and scrolling
+                      through social media, music and your personal calendar –
+                      software developers had a big hand in shaping those, too."
+                      textTruncateChild={<a href="#">Read on</a>}
+                  />
+                 
                 </Card.Text>
                 <Button variant="primary">See More</Button>
               </Card.Body>

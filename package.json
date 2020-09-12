@@ -15,6 +15,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
     "react-simple-chatbot": "^0.6.1",
+    "react-text-truncate": "^0.16.0",
     "styled-components": "^5.2.0"
   },
   "scripts": {
