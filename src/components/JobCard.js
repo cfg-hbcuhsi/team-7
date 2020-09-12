@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import ReactReadMoreReadLess from "react-read-more-read-less";
 
 export default function JobCard(props) {
-    console.log(props);
+  console.log(props);
   return (
     <Card style={{ width: "auto" }} className="p-0 mr-0 ml-0">
       <Card.Img variant="" src={props.picture} />
@@ -13,15 +13,17 @@ export default function JobCard(props) {
           {props.name} - {props.salary}
         </Card.Title>
         <Card.Text>
-          <ReactReadMoreReadLess
+          {/* <ReactReadMoreReadLess
             charLimit={100}
             readMoreText={"Read more ▼"}
             readLessText={"Read less ▲"}
           >
             {props.description}
-          </ReactReadMoreReadLess>
+          </ReactReadMoreReadLess> */}
         </Card.Text>
-        <a href={`./careers/${props.id}`}><Button variant="primary">See More</Button></a>
+        <a href={`./careers/${props.id}`}>
+          <Button variant="primary">See More</Button>
+        </a>
       </Card.Body>
     </Card>
   );

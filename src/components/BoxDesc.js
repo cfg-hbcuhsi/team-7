@@ -1,6 +1,5 @@
 import React from "react";
 import { Card, Button, CardDeck } from "react-bootstrap";
-import styled from "styled-components";
 
 function BoxDesc() {
   return (
