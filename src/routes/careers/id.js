@@ -25,7 +25,7 @@ export default function IndexPage() {
     <>
       <NavBar />
       <Container>
-        <Row>
+        <Row className="pt-5">
           <Col>
             <Row>
               <h1 class="display-4">

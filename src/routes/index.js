@@ -3,10 +3,6 @@ import NavBar from "../components/NavBar";
 import Carousel from "../components/Carousel";
 import BoxDesc from "../components/BoxDesc";
 import { Row, Container, Col, Card, Button } from "react-bootstrap";
-<<<<<<< HEAD
-import ChatBot from "../components/Chatbot";
-=======
->>>>>>> cd4098da3e7b853202d0a18f928f64f7cd395341
 
 export default function IndexPage() {
   return (

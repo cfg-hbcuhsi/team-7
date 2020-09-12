@@ -10,9 +10,8 @@ import "./colleges.css";
 const getJsonObject = async (id) => {
   let toReturn;
   id = parseInt(id);
-  console.log(id)
   Colleges.forEach((obj) => {
-    if (obj.ID === id) {console.log("The if statement was true"); toReturn = obj;}
+    if (obj.ID === id) toReturn = obj
   });
   return toReturn;
 };
@@ -23,7 +22,6 @@ export default function IndexPage() {
   useEffect(() => {
     getJsonObject(id).then((obj) => setObj(obj));
   }, []);
-  console.log(obj);
   return (
     <>
       <NavBar />

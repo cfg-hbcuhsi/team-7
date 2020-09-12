@@ -27,7 +27,7 @@ export default function Careers() {
       <Container style={{ width: "100%" }}>
         {jobs.map((obj) => {
           return (
-            <Row>
+            <Row className="mt-5">
               <Col key={`col-${obj[0].ID}`} sm={4} className="mr-0">
                 <JobCard
                   key={obj[0].ID}
