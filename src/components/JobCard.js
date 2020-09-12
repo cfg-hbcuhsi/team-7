@@ -13,13 +13,13 @@ export default function JobCard(props) {
           {props.name} - {props.salary}
         </Card.Title>
         <Card.Text>
-          {/* <ReactReadMoreReadLess
+          <ReactReadMoreReadLess
             charLimit={100}
             readMoreText={"Read more ▼"}
             readLessText={"Read less ▲"}
           >
             {props.description}
-          </ReactReadMoreReadLess> */}
+          </ReactReadMoreReadLess>
         </Card.Text>
         <a href={`./careers/${props.id}`}>
           <Button variant="primary">See More</Button>
