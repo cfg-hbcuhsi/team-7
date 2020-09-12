@@ -1,0 +1,81 @@
+[
+     {
+        "Name": "The Achievement Award Program (TAAP)",
+        "ID": 1,
+        "Description": "The Achievement Award Program (TAAP) has provided low-income students with the resources needed to attend and excel at U.C. Berkeley. Eligible applicants must: demonstrate financial need; be enrolled full-time at UC Berkeley; be an incoming freshmen (or GED-equivalent) or incoming junior transfer; and, have participation in retreats, workshops, and alumni engagement events, and one-on-one advising throughout the academic year. For more information or to apply, please visit the scholarship provider's website.",
+        "URL": "https://alumni.berkeley.edu/community/scholarships/achievement-award-program",
+        "Amount": "$24,000",
+        "Picture": "https://alumni.berkeley.edu/sites/all/themes/caa-zen/images/logo-caa-2x.png"
+    },
+    {
+        "Name": "ACWA Scholarship",
+        "ID": 2,
+        "Description": "Awards are based on a combination of scholastic achievement and a commitment on the part of the applicants to their chosen fields, best demonstrated by pursuing a degree related to or identified with engineering, agriculture or urban water supply, environmental studies and public administration associated with resources management. Applicant must be a California resident and must be attending an accredited, University of California or California State University. Financial need is also considered. For more information or to apply, please visit the scholarship provider's website.",
+        "URL": "https://www.acwa.com/about/scholarships/acwa-scholarship/",
+        "Amount": "$3,500",
+        "Picture": "https://www.acwa.com/wp-content/themes/acwa/images/logo.jpg"
+    },
+    {
+        "Name": "eQuality Scholarships",
+        "ID": 3,
+        "Description": "eQuality Scholarship Collaborative awards scholarships to honor and encourage California students for their service to the lesbian/gay/bisexual/transgender community. Applicants for all scholarships must have demonstrated service to the LGBT+ community. Applicants of all sexual orientations and gender identities are eligible. Awards are available to graduating high school seniors, community college transfer students, nursing students and graduate health care students, with their own criteria. For more information or to apply, please visit the scholarship provider's website.",
+        "URL": "https://www.equalityscholarship.org/",
+        "Amount": "$6,000",
+        "Picture": "https://www.equalityscholarship.org/uploads/1/2/8/7/12877235/1426780719.png"
+    },
+    {
+        "Name": "Virginia Smith Scholarship",
+        "ID": 4,
+        "Description": "The Virginia Smith Scholarship will be awarded to a college junior who demonstrates academic potential and merits the respect and support of fellow students and teachers, has earned recognition through good citizenship during school and/or personal service to the community in which they live, and clearly needs financial support in order to attain objectives through higher education. To be eligible, you must have attended a public high school in the city of Merced for at least three (3) full years and have at least 60 college units satisfactorily completed by the start of the coming fall semester. You must have a cumulative GPA of 2.8 or higher and attend an accredited college in California full-time student next school year to qualify. For more information or to apply, please visit the scholarship provider's website.",
+        "URL": "https://www.mcoe.org/smith/Pages/Virginia-Smith-Trust.aspx",
+        "Amount": "Varies",
+        "Picture": "https://www.mcoe.org/style%20library/MCOE/images/Logo.png"
+    },
+    {
+        "Name": "\"$1,000 A Portrait of You\" Monthly Scholarship",
+        "ID": 5,
+        "Description": "Applicants must be U.S. citizens or are lawfully living in the United  States; must be high school or college students; must be 13 years of age or older on the date of their entry.",
+        "URL": "https://www.mymozaic.com/monthlyscholarship",
+        "Amount": "$1,000 Monthly",
+        "Picture": "https://www.mymozaic.com/images/logo.png"
+    },
+    {
+        "Name": "$1,000 LeverEdge Scholarship - No Essay",
+        "ID": 6,
+        "Description": "Dedicated to helping as many as possible through our $1,000 scholarships. Monthly (No-Essay, Monthly) Students of Color (No-Essay, October 1)",
+        "URL": "https://scholarships.leveredge.org/march2020",
+        "Amount": "$1,000",
+        "Picture": "https://cdn.kickoffpages.com/assets/139709/e632888e-d8a7-4f32-85c9-aaba5af8def9/w5mrsmsq323ux62nz5ym/logo.png"
+    },
+    {
+        "Name": "CWGGF Scholarship",
+        "ID": 7,
+        "Description": "The California Association of Winegrape Growers Foundation offers scholarships to graduating high school seniors. Two types of scholarships are offered - scholarships for four years at any campus in the University of California or California State University System, and scholarships for two years at any California community college. Only the children with a parent or legal guardian employed by a California vineyard during the winegrape growing season are eligible to apply. For more information or to apply, please visit the scholarship provider's website. Contact",
+        "URL": "https://cawgfoundation.org/",
+        "Amount": "$8,000",
+        "Picture": "https://cawgfoundation.org/wp-content/uploads/2016/09/cawg-foundation_newLogo.png"
+    },
+    {
+        "Name": "Don Diego Fund Exhibitor/Participant Scholarship",
+        "ID": 8,
+        "Description": "The Don Diego Scholarship Foundation promotes education in a fair and fiscally sound manner by providing scholarships to deserving San Diego area graduating high school seniors and graduates who are associated with activities at the Del Mar Fairgrounds, including the San Diego County Fair. The Don Diego Scholarship Foundation also provides grants for agricultural education. Applicant must have participated (prior to the applying year) in a competitive exhibit department or as an entertainer in the special events department at the San Diego County Fair, Del Mar National Horse Show or other equestrian event at the Del Mar Fairgrounds and/or Horsepark. For more information, or to apply, please visit the scholarship provider’s website.",
+        "URL": "https://dondiegoscholarship.org/scholarships/",
+        "Amount": "$5,000",
+        "Picture": "https://dondiegoscholarship.org/wp-content/uploads/2013/09/dondiego-logo.png"
+    },
+    {
+        "Name": "National Hispanic Business Women Association Educational Scholarship",
+        "ID": 9,
+        "Description": "To be eligible for the National Hispanic Business Women Association Educational Scholarship, applicants must: be a student with home residence in California; involvement in some form of community service; demonstrate financial need; have a 3.0 GPA; and, attend a college or university in the US. For more information or to apply, please visit the scholarship provider's website.",
+        "URL": "http://www.nationalhbwa.com/",
+        "Amount": "Varies",
+        "Picture": "http://d3n8a8pro7vhmx.cloudfront.net/nhbwa/sites/1/meta_images/original/NHBWA-logo.png?1586928161"
+    },
+    {
+        "Name": "Fontana Transport Inc. Scholars Program",
+        "ID": 10,
+        "Description": "The Fontana Transport Inc. Scholars Program is open to underrepresented, low-income and first-generation college-bound students. Students must be pursuing an undergraduate degree full-time in transportation, math, science, engineering, architecture, environmental design, PreMed, psychology, Spanish language/literature. The applicant does not have to be a U.S. citizen but must have a minimum 3.5 GPA and proof of attending college beginning in the fall semester. Recommendation by a faculty member is optional but highly suggested. For more information or to apply, please visit the scholarship provider's website.",
+        "URL": "https://app.goingmerry.com/scholarships/fontana-transport-inc-scholars-program/6771",
+        "Amount": "$5,000",
+        "Picture": "https://assets.goingmerry.com/release/award-programs/c585f52d-ea79-4882-b363-4a555ba5f12e/awards/e044800e-0039-43e5-a337-dc616c05b93c/logo.jpg"
+    }]
